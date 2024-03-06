@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Android Testing, Mathematical Modelling**
 
-- 🤝 I’m looking to collaborate on **Open Source Projects in Android, Python or MATLAB**
+- 🤝 I’m looking to collaborate on **Projects in Android, Python or MATLAB**
   
 - 💬 Ask me about **Android, Kotlin, MATLAB**
 
